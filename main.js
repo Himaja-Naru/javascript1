@@ -7,7 +7,7 @@ function fun()
     console.log(rendomNumber)
     if(rendomNumber == number)
     {
-        console.log('Good Work')
+        console.log('Matched')
     }
     else
     {
